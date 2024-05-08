@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Pradhan</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 🔭 I’m currently working on **Linear math word problem solver using T5 transformer**
+- 🔭 I’m currently working on **Full-stack Project**
 
 - 🌱 I’m currently learning **data science and full-stack development.**
 
