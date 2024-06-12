@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full-stack Project**
 
-- 🌱 I’m currently learning **data science and full-stack development.**
+- 🌱 I’m currently learning **AI and ML.**
 
 - 📫 How to reach me **nikhilpradhan20b@gmail.com**
 
